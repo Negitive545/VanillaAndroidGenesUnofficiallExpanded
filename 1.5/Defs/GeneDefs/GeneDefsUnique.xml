@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<VREAndroids.AndroidGeneDef ParentName="VREA_SubroutineBase">
+		<defName>VAGUE_InfraVision</defName>
+		<label>infravision</label>
+		<description>Androids with this subroutine have optical receptors that extend into the infrared spectrum of light.</description>
+		<iconPath>UI/Icons/Genes/Gene_Darkvision</iconPath>
+		<displayOrderInCategory>44</displayOrderInCategory>
+		<biostatMet>-1</biostatMet>
+		<ignoreDarkness>true</ignoreDarkness>
+	</VREAndroids.AndroidGeneDef>
+	<VREAndroids.AndroidGeneDef ParentName="VREA_SubroutineBase">
+		<defName>VAGUE_fireSpray</defName>
+		<label>napalm emitters</label>
+		<description>Androids with this subroutine slowly convert neutroamine into highly refined chemfuel, they can then expel this chemical to set things ablaze</description>
+		<iconPath>UI/Icons/Genes/Gene_Firespew</iconPath>
+		<abilities>
+			<li>FireSpew</li>
+		</abilities>
+		<biostatMet>-2</biostatMet>
+		<displayOrderInCategory>45</displayOrderInCategory>
+	</VREAndroids.AndroidGeneDef>
+</Defs>
