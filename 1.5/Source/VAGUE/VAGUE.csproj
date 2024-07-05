@@ -46,6 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Genes\Gene_CoagulatoryMechanites.cs" />
     <Compile Include="HarmonyPatches\BrokenJoyCurcuitsHandlerPatch.cs" />
     <Compile Include="HarmonyPatches\HarmonyInstatiation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

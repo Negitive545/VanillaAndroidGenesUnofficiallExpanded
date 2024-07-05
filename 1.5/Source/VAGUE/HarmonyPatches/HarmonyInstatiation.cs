@@ -3,7 +3,6 @@ using Verse;
 
 namespace VAGUE
 {
-
     [StaticConstructorOnStartup]
     public class Main
     {

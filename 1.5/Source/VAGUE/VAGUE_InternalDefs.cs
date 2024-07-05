@@ -8,6 +8,7 @@ namespace VAGUE
     internal class VAGUE_InternalDefs
     {
         public static GeneDef VAGUE_largeMoodDecrease;
+        public static GeneDef VAGUE_coagulatoryMechanites;
 
         static VAGUE_InternalDefs()
         {
