@@ -22,12 +22,12 @@
 	</VREAndroids.AndroidGeneDef>
 	<VREAndroids.AndroidGeneDef ParentName="VREA_SubroutineBase">
 		<defName>VAGUE_coagulatoryMechanites</defName>
-		<label>neutro-coagulation mechanites</label>
+		<label>neutro-coagulation</label>
 		<description>Androids with this subroutine have coagulation mechanites suffused within their neurtropumps, when these mechanites detect decreasing pressure, they go to the site of the leak and alter the neutroamine's chemical makeup to that of a solid, which stops the leak.
 		\n(Every 10 seconds, the largest source of neutro-loss that is at least 15 seconds old will be tended to with 100% quality. However, androids still cannot heal naturally, this only prevents further neutro loss.)</description>
-		<iconPath/>
+		<iconPath>UI/Icons/Genes/VAGUE_coagulatoryMechanites</iconPath>
 		<geneClass>VAGUE.Gene_CoagulatoryMechanites</geneClass>
 		<displayOrderInCategory>46</displayOrderInCategory>
-		<biostatMet>-6</biostatMet>
+		<biostatMet>-3</biostatMet>
 	</VREAndroids.AndroidGeneDef>
 </Defs>
